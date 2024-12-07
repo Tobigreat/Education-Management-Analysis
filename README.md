@@ -24,7 +24,7 @@ https://github.com/Tobigreat/Education-Management-Analysis/blob/d0b11171ed5cf3c6
 https://github.com/Tobigreat/Education-Management-Analysis/blob/e5df5492f75ec12ec017a8422e1fa38c852ac89b/Obj%206.png 
 
 ## Objective 7.Present a summary table breaking down the total schools by buckets of their PTR Please use the following buckets a.schools with PTR 0 10, b.schools with PTR 10 15 c. schools with PTR 15 20 d. schools with PTR greater than 20
+https://github.com/Tobigreat/Education-Management-Analysis/blob/1f00766880c413cc653145766b6b4849a0d9dd30/Obj%207.png 
 
-## Objective 8 For each bucket group, present the of schools in each bucket, the total enrollment in all schools in
-that bucket, the of schools in that bucket with enough teachers to have a minimum of 1 1 ratio of
-Teachers Assigned to Total Classes Offered
+## Objective 8 For each bucket group, present the of schools in each bucket, the total enrollment in all schools in that bucket, the of schools in that bucket with enough teachers to have a minimum of 1 1 ratio of Teachers Assigned to Total Classes Offered
+
