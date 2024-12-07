@@ -18,8 +18,10 @@ https://github.com/Tobigreat/Education-Management-Analysis/blob/1deae9ae886ea3fa
 https://github.com/Tobigreat/Education-Management-Analysis/blob/0f88a8f4bfeec95f37c5fad6faf42c38637b0254/Obj%205.png 
 
 ## Objective 5. How many of the total schools have a total PTR (ECD and Primary combined) of at least 20
+https://github.com/Tobigreat/Education-Management-Analysis/blob/d0b11171ed5cf3c64f7d9b070067b67fc17979c8/Obj%205.png 
 
 ## Objective 6.How many of the schools in question 5 offer at least some classes in both ECD AND Primary?
+
 ## Objective 7.Present a summary table breaking down the total schools by buckets of their PTR Please use the
 following buckets a.schools with PTR 0 10, b.schools with PTR 10 15 c. schools with PTR 15 20 d. schools with PTR greater than 20
 ## Objective 8 For each bucket group, present the of schools in each bucket, the total enrollment in all schools in
