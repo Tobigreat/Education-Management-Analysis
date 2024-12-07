@@ -8,6 +8,7 @@ be selected to become part of a public private partnership with Bridge.
 ## Objective 1: Please very briefly summarize how many schools you eliminated for bad/missing data
 https://github.com/Tobigreat/Education-Management-Analysis/blob/a9ba395e3860204f5f38c03cfd1be3c1cfd9173b/Obj%201.png
 ## Objective 2: How many total schools are left in the dataset?
+https://github.com/Tobigreat/Education-Management-Analysis/blob/24b5e0abf4b63aa1481cdb1634990ae496bda2dc/Obj%202.png 
 ## Objective 3: What percentage of the total schools have a total enrolment (total enrolment is the total of both
 primary and ECD enrolment) of 200 students?
 ## Objective 4. What percentage of the total schools have enough teachers assigned to those schools such that the
