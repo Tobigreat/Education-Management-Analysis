@@ -4,4 +4,4 @@ Information System) about schools in its state Imagine that Bridge is considerin
 working with this government and using this information to better understand which potential schools should
 be selected to become part of a public private partnership with Bridge. 
 
-## Note: The exercise were carry out on Mysql 
+## Note: The exercise was carried out on Mysql 
