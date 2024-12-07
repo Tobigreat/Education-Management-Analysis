@@ -27,4 +27,5 @@ https://github.com/Tobigreat/Education-Management-Analysis/blob/e5df5492f75ec12e
 https://github.com/Tobigreat/Education-Management-Analysis/blob/1f00766880c413cc653145766b6b4849a0d9dd30/Obj%207.png 
 
 ## Objective 8 For each bucket group, present the of schools in each bucket, the total enrollment in all schools in that bucket, the of schools in that bucket with enough teachers to have a minimum of 1 1 ratio of Teachers Assigned to Total Classes Offered
+https://github.com/Tobigreat/Education-Management-Analysis/blob/98c514f7ff6726df19ffe7aee65c571c0f5c68c4/Obj%208.png
 
